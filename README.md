@@ -1,6 +1,6 @@
 # LinkTree_Less
 
-##Links dos repositorios do meus principais projetos.
+Links dos repositorios do meus principais projetos.
 
 *Usando Less* 
 
